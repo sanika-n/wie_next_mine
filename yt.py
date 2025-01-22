@@ -3,11 +3,8 @@ from googleapiclient.discovery import build
 #import openai
 
 # Replace with your API Key from Google Cloud Console
-YT_API_KEY = 'AIzaSyDQE4vVp5a7Af5OjVTdv8qv9HPTH6ec34w'
-#openai.api_key='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'
+YT_API_KEY = ''
 
-
-    # Make a simple API request to test the key by creating a completion
 # response = openai.completions.create(
 #     model="gpt-4",  # or any other valid model
 #     prompt="what are the important topics in python",
